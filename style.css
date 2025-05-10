@@ -1,0 +1,108 @@
+header {
+    background-color: #ADFF2F;
+    padding: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: black; 
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+body {
+    font-family: cursive;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-end;
+    margin: 10px;
+}
+
+nav a{
+    margin-right: 10px;
+}
+
+
+.img1 {
+    width: 50%;
+}
+
+.s1 {
+   display: flex; 
+   justify-content: center;
+}
+
+.h1 {
+    width: 50%;
+    text-align: center;
+}
+
+tr:first-child {
+    background-color: #ADFF2F;
+}
+
+.s2 {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    border: 3px black solid;
+    border-collapse: collapse;
+    width: 90%;
+}
+
+td {
+    border: 3px black solid;
+}
+
+.s3 {
+    display: flex;
+}
+
+.inst img {
+    width: 170px;
+    height: 250px;
+    margin: 15px;
+}
+
+.inst {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.nash {
+    background-color: #ADFF2F;
+}
+
+input {
+    border-radius: 5px;
+}
+
+.a1 {
+    background-color: #ADFF2F;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.p {
+    background-color: #ADFF2F;
+    padding: 30px;
+}
+
+.p p{
+    font-size: large;
+    color: green;
+}
+
+h3 {
+    text-align: center;
+}
+
+.zap {
+    
+}
